@@ -1,6 +1,6 @@
 # dex
 
-decimal <-> hex
+a decimal <-> hex converter written in Go
 
 dex can handle big numbers.
 
